@@ -1,0 +1,31 @@
+https://towardsdatascience.com/implementing-snapchat-like-filters-using-deep-learning-13551940b174
+
+
+
+majek:
+https://arxiv.org/pdf/1611.08657v5.pdf
+	code: https://paperswithcode.com/paper/convolutional-experts-constrained-local-model
+http://www.bmva.org/bmvc/2006/papers/024.pdf
+
+papers with code super stranica s radovima koji imaju kod
+
+
+
+
+database aflw
+https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/
+database 300w
+https://ibug.doc.ic.ac.uk/resources/300-W/
+
+dataset kaggle 7k img
+https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-points?resource=download
+po cem radim:
+https://www.kaggle.com/code/fareselmenshawii/eye-landmark-detection <- this better
+https://www.kaggle.com/code/satyaprakash13820/facial-landmark
+
+imputing missing values: 
+https://www.projectpro.io/recipes/impute-missing-values-with-means-in-python
+
+
+matplotlib
+https://matplotlib.org/stable/api/markers_api.html#module-matplotlib.markers
