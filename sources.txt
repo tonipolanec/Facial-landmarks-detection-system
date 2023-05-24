@@ -17,8 +17,12 @@ https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/
 database 300w
 https://ibug.doc.ic.ac.uk/resources/300-W/
 
+
+
 dataset kaggle 7k img
 https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-points?resource=download
+svi codeovi za taj dataset:
+https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-points/code
 po cem radim:
 https://www.kaggle.com/code/fareselmenshawii/eye-landmark-detection <- this better
 https://www.kaggle.com/code/satyaprakash13820/facial-landmark
