@@ -20,7 +20,7 @@ https://ibug.doc.ic.ac.uk/resources/300-W/
 
 
 dataset kaggle 7k img
-https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-points?resource=download
+https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-points
 svi codeovi za taj dataset:
 https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-points/code
 po cem radim:
