@@ -1,6 +1,6 @@
 https://towardsdatascience.com/implementing-snapchat-like-filters-using-deep-learning-13551940b174
 
-
+ToniZavrsni2023
 
 majek:
 https://arxiv.org/pdf/1611.08657v5.pdf
@@ -26,6 +26,10 @@ https://www.kaggle.com/datasets/drgilermo/face-images-with-marked-landmark-point
 po cem radim:
 https://www.kaggle.com/code/fareselmenshawii/eye-landmark-detection <- this better
 https://www.kaggle.com/code/satyaprakash13820/facial-landmark
+
+AFINE TRANSFORMACIJE!!
+https://www.kaggle.com/code/apurvachoudhary/landmark-detection
+
 
 imputing missing values: 
 https://www.projectpro.io/recipes/impute-missing-values-with-means-in-python
